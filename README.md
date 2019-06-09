@@ -1,2 +1,2 @@
-# portfolio
-Jun's bad portfolio
+# code snippet portfolio
+
